@@ -23,15 +23,15 @@
 
 - 💻 **Name**: Davey Munters  
 - 🎓 **Study**: Bit Academy  
-- 🌍 **Fun fact**: I love traveling and being close to nature 🌳
+- 🌍 **Fun fact**: I love traveling
 
 ---
 
 ### 🌲 <span style="color:#2ecc71;">My GitHub DNA</span>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daveymunters87&show_icons=true&theme=gruvbox_light" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveymunters87&layout=compact&theme=gruvbox_light" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=daveymunters87&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2ecc71&text_color=333333&icon_color=27ae60" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveymunters87&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2ecc71&text_color=333333" height="150"/>
 </div>
 
 ---
