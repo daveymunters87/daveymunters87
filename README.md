@@ -35,7 +35,7 @@
 
 ---
 
-### 🐍 Snake Game – My Contributions in Motion!
+### 🐍 My Contributions in Motion!
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/daveymunters87/daveymunters87/output/ocean.gif" />
