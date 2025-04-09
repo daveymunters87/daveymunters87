@@ -46,7 +46,15 @@
 
 ### 🔗 Connect with Me
 
-Feel free to explore my repos or drop a ⭐ if something caught your eye!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/davey-munters-590921236/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/daveymunters87" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 ---
 
