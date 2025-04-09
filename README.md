@@ -1,7 +1,7 @@
 <h1 align="center" style="color:#ff00cc;">🚀 Davey Munters</h1>
 
 <p align="center">
-  <em><strong style="color:#00fff7;">Bit Academy Student</strong> | Tech Explorer 🧠 | Digital Nomad ✈️</em>
+  <em><strong style="color:#00fff7;">Bit Academy Student</strong> | Tech Explorer 🧠 | Travel Lover ✈️</em>
 </p>
 
 <hr style="border-top: 1px solid #ff00cc;" />
