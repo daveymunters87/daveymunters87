@@ -41,7 +41,7 @@ Here’s what I’ve been working with lately:
 > Watch your contributions come to life 🐍👇
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DaveyMunters/DaveyMunters/output/ocean.gif" />
+  <img src="https://raw.githubusercontent.com/daveymunters87/daveymunters87/output/ocean.gif" />
 </div>
 
 ---
