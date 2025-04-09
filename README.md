@@ -47,7 +47,7 @@
 ### 🔗 Connect with Me
 
 
-<div align="center">
+<div align="start">
   <a href="https://www.linkedin.com/in/davey-munters-590921236/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
