@@ -48,10 +48,10 @@
 
 
 <div align="start">
-  <a href="https://www.linkedin.com/in/davey-munters-590921236/" target="_blank">
+  <a href="https://www.linkedin.com/in/davey-munters-590921236/" target="">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/daveymunters87" target="_blank">
+  <a href="https://github.com/daveymunters87" target="">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
