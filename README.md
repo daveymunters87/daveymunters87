@@ -41,7 +41,7 @@ Here’s what I’ve been working with lately:
 > Watch your contributions come to life 🐍👇
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DaveyMunters/DaveyMunters/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/DaveyMunters/DaveyMunters/output/ocean.gif" />
 </div>
 
 ---
