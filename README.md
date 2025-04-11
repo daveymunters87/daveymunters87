@@ -50,9 +50,6 @@
   <a href="https://www.linkedin.com/in/davey-munters-590921236/" target="">
     <img src="https://img.shields.io/badge/LinkedIn-2e8b57?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/daveymunters87" target="">
-    <img src="https://img.shields.io/badge/GitHub-228B22?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </div>
 
 ---
