@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#2ecc71;">🌱 Davey Munters</h1>
+<h1 align="center" style="color:#2ecc71;"> Davey Munters</h1>
 
 <p align="center">
   <em><strong style="color:#27ae60;">Bit Academy Student</strong> | Tech Explorer 🧠 | Travel Lover 🌍</em>
