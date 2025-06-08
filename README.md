@@ -6,7 +6,7 @@
 
 <hr style="border-top: 1px solid #2ecc71;" />
 
-### 🛠️ <span style="color:#2ecc71;">Tech Stack</span>
+### <span style="color:#2ecc71;">Tech Stack</span>
 
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white" />
@@ -19,7 +19,7 @@
 
 ---
 
-### 🌿 <span style="color:#27ae60;">Who Am I?</span>
+### <span style="color:#27ae60;">Who Am I?</span>
 
 - 💻 **Name**: Davey Munters  
 - 🎓 **Study**: Bit Academy  
@@ -27,7 +27,7 @@
 
 ---
 
-### 🌲 <span style="color:#2ecc71;">My GitHub DNA</span>
+### <span style="color:#2ecc71;">My GitHub stats</span>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daveymunters87&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2ecc71&text_color=333333&icon_color=27ae60" height="150"/>
@@ -36,7 +36,7 @@
 
 ---
 
-### 🐍 <span style="color:#27ae60;">My Contributions in Motion</span>
+### 🐍 <span style="color:#27ae60;">My Contributions</span>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/daveymunters87/daveymunters87/output/ocean.gif" />
