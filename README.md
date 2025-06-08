@@ -36,7 +36,7 @@
 
 ---
 
-### 🐍 <span style="color:#27ae60;">My Contributions</span>
+### <span style="color:#27ae60;">My Contributions</span>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/daveymunters87/daveymunters87/output/ocean.gif" />
@@ -44,7 +44,7 @@
 
 ---
 
-### 🤝 Connect with Me
+### Connect with Me
 
 <div align="start">
   <a href="https://www.linkedin.com/in/davey-munters-590921236/" target="">
