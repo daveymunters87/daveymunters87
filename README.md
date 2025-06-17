@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-44B8B4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-88c0d0?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
@@ -23,7 +23,7 @@
 
 - 💻 **Name**: Davey Munters  
 - 🎓 **Study**: Bit Academy  
-- 🌍 **Fun fact**: I love traveling
+- 🌍 I love traveling
 
 ---
 
