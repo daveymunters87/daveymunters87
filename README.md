@@ -6,7 +6,7 @@
 
 <hr style="border-top: 1px solid #2ecc71;" />
 
-### <span style="color:#2ecc71;">Tech Stack</span>
+### <span style="color:#2ecc71;">Currently learning</span>
 
 <div align="center">
   <img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white" />
