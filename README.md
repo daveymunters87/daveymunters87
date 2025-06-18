@@ -8,7 +8,7 @@
 
 ### <span style="color:#2ecc71;">Currently learning</span>
 
-<div align="center">
+<div align="start">
   <img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-44B8B4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
