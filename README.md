@@ -23,7 +23,6 @@
 
 - 💻 **Name**: Davey Munters  
 - 🎓 **Study**: Bit Academy  
-- 🌍 I love traveling
 
 ---
 
