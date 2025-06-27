@@ -35,14 +35,6 @@
 
 ---
 
-### <span style="color:#27ae60;">My Contributions</span>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/daveymunters87/daveymunters87/output/ocean.gif" />
-</div>
-
----
-
 ### Connect with Me
 
 <div align="start">
