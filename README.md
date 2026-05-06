@@ -6,32 +6,10 @@
 
 <hr style="border-top: 1px solid #2ecc71;" />
 
-### <span style="color:#2ecc71;">Currently learning</span>
-
-<div align="start">
-  <img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-44B8B4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-88c0d0?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white" />
-</div>
-
----
-
 ### <span style="color:#27ae60;">Who Am I?</span>
 
 - 💻 **Name**: Davey Munters  
-- 🎓 **Study**: Bit Academy  
-
----
-
-### <span style="color:#2ecc71;">My GitHub stats</span>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daveymunters87&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2ecc71&text_color=333333&icon_color=27ae60" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveymunters87&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2ecc71&text_color=333333" height="150"/>
-</div>
+- 🎓 **Study**: Bit Academy | Software development 
 
 ---
 
