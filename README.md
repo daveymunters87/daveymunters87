@@ -1,15 +1,11 @@
 <h1 align="center" style="color:#2ecc71;"> Davey Munters</h1>
 
-<p align="center">
-  <em><strong style="color:#27ae60;">Bit Academy Student</strong></em>
-</p>
-
 <hr style="border-top: 1px solid #2ecc71;" />
 
 ### <span style="color:#27ae60;">Who Am I?</span>
 
 - 💻 **Name**: Davey Munters  
-- 🎓 **Study**: Bit Academy | Software development 
+- 🎓 **Study**: Software Engineer 
 
 ---
 
